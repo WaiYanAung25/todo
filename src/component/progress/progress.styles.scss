@@ -1,0 +1,24 @@
+.progress-container {
+  border-radius: 20px;
+  background: #e07c7c;
+  max-height: 123px;
+  padding: 18px 19px 25px 19px;
+  h1 {
+    margin: 0 !important;
+    color: #fff;
+
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  p {
+    color: #ebb9b8;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+}
